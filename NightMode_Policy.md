@@ -30,8 +30,10 @@ eric.cai.acheng@gmail.com做为项目的拥有者（以下简称“我们”）�
 4. 如果您认为某家服务商有涉隐私，请联系我们。我们将在更新时考虑是否去除。
 
 ***
-**本协议最终解释权归eric.cai.acheng@gmail.com所有。**
-－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+**本协议最终解释权归eric.cai.acheng@gmail.com所有。**  
+
+－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－  
+
 # privacy policy(English)
 
 Eric.cai.acheng@gmail.com as the owner of the project (hereinafter referred to as "we") respects and protects the user's privacy. In order to provide you with a better environment, we use your personal information strictly in accordance with the content of this privacy policy. Please read the following carefully to better understand us and prevent possible bickering. The
